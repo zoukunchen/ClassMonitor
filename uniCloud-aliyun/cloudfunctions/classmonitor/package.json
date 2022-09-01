@@ -1,0 +1,7 @@
+{
+  "name": "classmonitor",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
